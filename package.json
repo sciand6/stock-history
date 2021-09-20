@@ -1,13 +1,13 @@
 {
-  "name": "stonks",
+  "name": "Stock History",
   "version": "1.0.0",
-  "description": "",
-  "main": "tests.js",
+  "description": "This application gets historical stock data.",
+  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Malcolm Sciandra",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
