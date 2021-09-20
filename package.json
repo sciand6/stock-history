@@ -1,5 +1,5 @@
 {
-  "name": "Stock History",
+  "name": "stock-history",
   "version": "1.0.0",
   "description": "This application gets historical stock data.",
   "main": "index.js",
