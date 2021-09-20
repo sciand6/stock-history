@@ -1,0 +1,19 @@
+.Ticker {
+  padding-right: 25px;
+}
+
+.Row {
+  display: flex;
+  overflow-x: scroll;
+}
+
+.RowItem {
+  margin-left: 15px;
+}
+
+.Column {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  margin-top: 5px;
+}
